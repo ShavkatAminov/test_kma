@@ -1,0 +1,17 @@
+{
+    "name": "shavkat/kma",
+    "autoload": {
+        "psr-4": {
+            "Shavkat\\Kma\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "shavkat.aminov",
+            "email": "sh.aminov@ssdsoftwaresolutions.com"
+        }
+    ],
+    "require": {
+        "php-amqplib/php-amqplib": ">=3.0"
+    }
+}

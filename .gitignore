@@ -1,0 +1,16 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+
+# vendor
+vendor/
+
+# IDEs and editors
+.idea/
+
+# docker
+/docker/database/data
+/docker/database-test/data
+/docker/logs/nginx
+
+
+composer.lock
